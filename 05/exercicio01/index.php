@@ -1,12 +1,15 @@
 <?php
 
-    # incluindo arquivo da classe Usuarios.
-    require 'usuarios.php';
+require 'usuario.php';
 
-    $usuario01 = new Usuarios();
-    $usuario01->nome = "Rubens";
-    echo "<p>O nome do usuário é: <b>{$usuario01->nome}</b></p>";
+$usuario01 = new Usuario();
 
-    $usuario02 = new Usuarios();
-    $usuario02->nome = "Maria";
-    echo "<p>O nome do usuário é: <b>{$usuario02->nome}</b></p>";
+$usuario02 = new Usuario();
+
+$usuario01->nome = "Rubens";
+
+$usuario02->nome = "Maria";
+
+echo "O nome da pessoa 01 é: {$usuario01->nome}";
+echo "<br>";
+echo "O nome da pessoa 02 é: {$usuario02->nome}";
