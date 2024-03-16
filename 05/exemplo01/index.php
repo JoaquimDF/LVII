@@ -1,10 +1,9 @@
 <?php
-	class Pessoas {
-		public $nome;
-	}
-	
-	$p1 = new Pessoas();
-	$p1->nome = "Joao";
-	
-	echo "O nome da pessoa e <b>{$p1->nome}</b>";
-?>
+
+include 'usuario.php';
+
+$user01 = new Usuario();
+
+$user01->nome = "Joao";
+
+echo "O nome do usuário é: {$user01->nome}";
