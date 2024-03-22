@@ -1,5 +1,5 @@
 <?php
-    require 'conta.php';
+    require 'src/conta.php';
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
