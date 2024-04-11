@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #088395;
+}
+
+figure {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+figure img {
+    width: 50px;
+    margin-left: 20px;
+}
+
+figure span {
+    color: #fff;
+    font-weight: 900;
+    font-size: 1.5rem;
+    margin-left: 20px;
+}
+
+nav ul  {
+    list-style: none;
+    display: flex;
+    align-items: flex-end;
+}
+nav ul a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    display: block;
+    color: #fff;
+    padding: 0 20px;
+}
+
+.titulo__pagina {
+    margin: 20px;
+}
