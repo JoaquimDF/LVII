@@ -1,5 +1,4 @@
 ### ProjetoETC
-*
 
 Arquivos de códigos, exemplos e exercícios da disciplina de LV-II
 
