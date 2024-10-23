@@ -34,10 +34,10 @@ Aula 15 - CRUD - INSERT, SELECT, UPDATE e DELETE
 
 Aula 16 - MVC - INSERT
 
-Aula 17 - MVC
+Aula 17 - MVC - INSERT, SELECT, UPDATE, DELETE
 
-Aula 18 - 
+Aula 18 - MVC - INSERT, SELECT, UPDATE, DELETE e LOGIN
 
-Aula 19 - 
+Aula 19 - MVC com Relatórios PDF
 
 Aula 20 - 
