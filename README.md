@@ -38,6 +38,6 @@ Aula 17 - MVC - INSERT, SELECT, UPDATE, DELETE
 
 Aula 18 - MVC - INSERT, SELECT, UPDATE, DELETE e LOGIN
 
-Aula 19 - MVC com Relatórios PDF
+Aula 19 - MVC com LOGIN e Relatórios PDF
 
 Aula 20 - 
