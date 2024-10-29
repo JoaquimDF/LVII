@@ -50,7 +50,8 @@ $quantidadeRegistros = count($usuarios);
                             <td><?= htmlspecialchars($status); ?></td>
                             <td class="td__operacao">
                                 <a class="btnalterar" href="edit.php?id=<?= $usuario['id']; ?>">Alterar</a>
-                                <a class="btnexcluir" href="delete.php?id=<?= $usuario['id']; ?>" onclick="return confirm('Deseja confirmar a operação?');">Excluir</a>
+                                <a class="btnexcluir" href="delete.php?id=<?= $usuario['id']; ?>" 
+                                onclick="return confirm('Deseja confirmar a operação?');">Excluir</a>
                             </td>
                         </tr>
                     <?php endforeach; ?>
