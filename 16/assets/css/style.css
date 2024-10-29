@@ -121,6 +121,10 @@ td a1 {
   display: inline-block;  
 }
 
+.btn-voltar {
+  background-color: cadetblue;
+}
+
 main form {
   margin-top: 20px;
   padding: 20px 30px;
@@ -158,3 +162,4 @@ form label {
   background-color: #ffc107;
   font-weight: 700;
 }
+/* botao pesquisar por ID */.
